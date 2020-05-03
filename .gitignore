@@ -1,0 +1,10 @@
+private.h
+info.txt
+.cache/*
+.pio/*
+.pioenvs/*
+.vscode/*
+include/*
+lib/*
+test/*
+firmware.map

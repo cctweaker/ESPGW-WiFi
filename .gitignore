@@ -1,10 +1,9 @@
-private.h
-sm.h
 .cache/
 .pio/
 .pioenvs/
 .vscode/
 include/
 lib/
+release/
 test/
 firmware.map

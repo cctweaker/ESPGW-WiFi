@@ -21,8 +21,8 @@ const char page_header_end[] PROGMEM = R"=====(
 const char page_footer[] PROGMEM = R"=====(
 <hr><br><b>
 <a href="https://3dstar.ro/">3DStar</a> -
-<a href="https://3dstar.ro/proiecte/esplights">ESPlights</a> -
-<a href="https://github.com/cctweaker/ESPlights">GitHub</a>
+<a href="https://3dstar.ro/proiecte/esp-gw">ESP-GW</a> -
+<a href="https://github.com/cctweaker/ESPGW-WiFi">GitHub</a>
 </b><br><br>
 %s v%0.2f
 <br><br>
